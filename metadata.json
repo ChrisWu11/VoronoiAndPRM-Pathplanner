@@ -1,0 +1,6 @@
+{
+  "name": "Voronoi Grid Pathplanner",
+  "description": "A 17x17 grid pathfinding visualization using Voronoi graphs to find the shortest path from start to goal while avoiding obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
